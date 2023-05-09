@@ -1,0 +1,8 @@
+EBook,123,Forever Young,2018,20,true
+EBook,124,Still Life with Woodpecker,1980,277,true
+EBook,125,All Quiet on the Western Front,1929,241,trueMovieDVD,126,Forever Young,2020,140.0,true
+MovieDVD,127,Once Upon a Time in Hollywood,2019,928.2,true
+MovieDVD,128,Jurassic Park,1993,342.0,true
+MusicCD,129,Full Collapse,2001,42,true
+MusicCD,130,Daisy,2009,40,true
+MusicCD,131,New Again,2009,38,true
